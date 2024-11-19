@@ -9,7 +9,7 @@
 ## Milestones
 [All open](https://github.com/LeaderrunTeam/pm/milestones?with_issues=no)
 
-- [24Q4](https://github.com/LeaderrunTeam/pm/milestone/3)
+- [25年过年前工作计划](https://github.com/LeaderrunTeam/pm/milestone/3)
 - [下一批客户上线里程碑](https://github.com/LeaderrunTeam/pm/milestone/2)
 
 ## Projects
